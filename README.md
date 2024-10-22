@@ -7,6 +7,7 @@ This project is a simple Spotify clone built using HTML and CSS. It aims to repl
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -43,6 +44,10 @@ To get a copy of this project up and running on your local machine, follow these
 ## Usage
 
 Once you have the project running, you can interact with it just like you would with the Spotify web player. Click on playlists, albums, or songs to play them. Enjoy listening to your favorite tracks!
+
+## Deployment
+
+This project is deployed using GitHub Pages. You can access the live version of the Spotify clone here: [Spotify Clone](https://ashishdode.github.io/Spotify_clone/).
 
 ## Contributing
 
